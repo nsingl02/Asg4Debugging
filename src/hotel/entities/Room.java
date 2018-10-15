@@ -72,8 +72,11 @@ public class Room {
 
 
 	public void checkout(Booking booking) {
-		state = state.READY;
+		state = State.READY;
 	}
+
+
+	
 
 
 }

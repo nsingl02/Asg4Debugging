@@ -2,8 +2,7 @@ package hotel.entities;
 
 import hotel.credit.CreditCard;
 import hotel.credit.CreditCardType;
-
-import org.junit.jupiter.api.BeforeEach;
+ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.function.Executable;
 import org.mockito.InjectMocks;
@@ -57,3 +56,4 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
     }
    
  }
+     
